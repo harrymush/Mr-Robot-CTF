@@ -5,7 +5,10 @@ Setup
 
 
 Downloads:
+
 Kali Linux for VirtualBox: https://www.kali.org/get-kali/#kali-virtual-machines
+
+
 Mr. Robot VM from VulnHub: https://www.vulnhub.com/entry/mr-robot-1,151/
 
 
