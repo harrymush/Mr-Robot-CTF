@@ -1,7 +1,7 @@
 Mr. Robot-Inspired Hacking Exercise (CTF Write-Up)
 
 
-Setup
+Setup:
 
 
 Downloads:
