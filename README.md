@@ -1,5 +1,9 @@
 Mr. Robot-Inspired Hacking Exercise (CTF Write-Up)
-🛠️ Setup
+
+
+Setup
+
+
 Downloads:
 Kali Linux for VirtualBox: https://www.kali.org/get-kali/#kali-virtual-machines
 Mr. Robot VM from VulnHub: https://www.vulnhub.com/entry/mr-robot-1,151/
@@ -7,7 +11,7 @@ Mr. Robot VM from VulnHub: https://www.vulnhub.com/entry/mr-robot-1,151/
 
 ```markdown
 
-## 🛠️ Initial Setup
+## Initial Setup
 
 - **Attacker Machine**: Kali Linux (running in VirtualBox)
 - **Victim Machine**: Mr. Robot VM from VulnHub (imported and run in VirtualBox)
@@ -248,7 +252,7 @@ cat key-2-of-3.txt
 
 ---
 
-## ✅ Keys 1 & 2 Found!
+## Keys 1 & 2 Found!
 
 ```
 1. 073403c8a58alf80d943455fb30724b9  
@@ -374,7 +378,7 @@ cat key-3-of-3.txt
 
 ---
 
-## ✅ CTF Complete – All Keys Found!
+## CTF Complete – All Keys Found!
 
 ```
 1. 073403c8a58alf80d943455fb30724b9  
